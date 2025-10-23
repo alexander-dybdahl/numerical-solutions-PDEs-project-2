@@ -106,11 +106,8 @@ This implementation solves boundary value problems using the Galerkin finite ele
 - First-order convergence in the H1 norm
 - Stable numerical solutions for well-posed problems
 
-## Contributing
-
-This project is part of a numerical analysis course. Contributions should focus on:
-
 - Additional test cases
 - Performance improvements
 - Extended boundary condition support
 - Higher-order element implementations
+
